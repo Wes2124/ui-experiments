@@ -12,7 +12,7 @@ Check out the live demos of all the layouts and UI experiments, showcased in chr
 - [AI Chat](https://crafted.is/exp2)
 - [Dark Table](https://crafted.is/exp1)
 
-## shadcn/ui monorepo template
+## shadcn/ui monorepo templates
 
 This template is for creating a monorepo with shadcn/ui.
 
